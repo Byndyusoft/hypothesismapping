@@ -4,9 +4,22 @@
 
 ## Ресурсы
 1. [Сайт метода](https://картагипотез.рф)  
-  * [Английская версия](https://hypothesismapping.com)
+    * [Английская версия](https://hypothesismapping.com)
 2. [Телеграм-канал](https://t.me/hypothesismap)
 3. [Чат для обсуждения метода](https://t.me/hypothesismappingchat)
 
+# Структура
+
+## Цель
+По каким критериям в конце работы мы поймём, что достигли успеха?
+
+### Полезные методы описания цели
+1. SMART
+2. OKR
+   
+## Субъект
+## Гипотеза
+## Задача
+
 # License
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
