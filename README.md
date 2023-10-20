@@ -8,8 +8,9 @@
 ## Ресурсы
 1. [Сайт метода](https://картагипотез.рф)  
     * [Английская версия](https://hypothesismapping.com)
-2. [Телеграм-канал](https://t.me/hypothesismap)
-3. [Чат для обсуждения метода](https://t.me/hypothesismappingchat)
+1. [Шаблон Карты гипотез в Miro](https://miro.com/app/board/uXjVNYPcxAQ=/?share_link_id=744337022572)
+1. [Телеграм-канал](https://t.me/hypothesismap)
+1. [Чат для обсуждения метода](https://t.me/hypothesismappingchat)
 
 ## Структура
 
