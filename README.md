@@ -173,6 +173,3 @@ _Ускорение покупки до 1 клика, чтобы клиент м
 Рекомендуется включать в ваш процесс обязательную практику по проверке результатов. Эту последовательность действий нужно делать периодически, чтобы понимать ваш прогресс. Частоту периодичности выбирайте, исходя из циклов в вашей деятельности: у кого-то встречи будут нужны раз в месяц, а кому-то будет достаточно анализировать результат раз в квартал.
 
 <img width="1165" alt="image" src="https://github.com/Byndyusoft/hypothesismapping/assets/956068/b3c1cf9a-c185-41cb-bc05-ac344c548ad2">
-
-## License
-This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
