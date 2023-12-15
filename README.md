@@ -8,9 +8,9 @@
 1. [Сайт метода](https://картагипотез.рф) ([english version](https://hypothesismapping.com))
     * [Книга](https://картагипотез.рф/book)
     * [Обучение и сертификация](https://картагипотез.рф/study)
-1. [Шаблон Карты гипотез в Miro](https://miro.com/app/board/uXjVNYPcxAQ=/?share_link_id=744337022572)
+1. [Шаблон](https://miro.com/app/board/uXjVNYPcxAQ=/?share_link_id=744337022572) Карты гипотез в Miro
 1. [Телеграм-канал](https://t.me/hypothesismap)
-1. [Чат для обсуждения метода](https://t.me/hypothesismappingchat)
+    * [Чат](https://t.me/hypothesismappingchat) для обсуждения метода
 2. [Типовые топологии](https://github.com/Byndyusoft/hypothesismapping/blob/main/topology.md) Карты гипотез
 
 # Структура
