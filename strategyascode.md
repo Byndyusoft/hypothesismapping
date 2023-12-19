@@ -29,7 +29,7 @@
 
 ## Примеры кода
 
-Код написан на Мermaid. Документация к коду по ссылке [http://mermaid.js.org/syntax/flowchart.html](http://mermaid.js.org/syntax/flowchart.html)
+Код написан на [Мermaid](https://github.com/mermaid-js/mermaid). Документация к коду по ссылке [http://mermaid.js.org/syntax/flowchart.html](http://mermaid.js.org/syntax/flowchart.html)
 
 ### 1. Классическая топология Карты гипотез
 
