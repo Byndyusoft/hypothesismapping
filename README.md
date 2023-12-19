@@ -6,12 +6,13 @@
 
 ## Ресурсы
 1. [Сайт метода](https://картагипотез.рф) ([english version](https://hypothesismapping.com))
-    * [Книга](https://картагипотез.рф/book)
-    * [Обучение и сертификация](https://картагипотез.рф/study)
-1. [Шаблон](https://miro.com/app/board/uXjVNYPcxAQ=/?share_link_id=744337022572) Карты гипотез в Miro
 1. [Телеграм-канал](https://t.me/hypothesismap)
     * [Чат](https://t.me/hypothesismappingchat) для обсуждения метода
-2. [Типовые топологии](https://github.com/Byndyusoft/hypothesismapping/blob/main/topology.md) Карты гипотез
+1. [Книга](https://картагипотез.рф/book)
+1. [Шаблон](https://miro.com/app/board/uXjVNYPcxAQ=/?share_link_id=744337022572) Карты гипотез в Miro
+1. [Типовые топологии](https://github.com/Byndyusoft/hypothesismapping/blob/main/topology.md) Карты гипотез
+1. [Стратегия как код](https://github.com/Byndyusoft/hypothesismapping/blob/main/strategyascode.md) с примерами кода
+1. [Обучение и сертификация](https://картагипотез.рф/study)
 
 # Структура
 Структура Карты гипотез состоит из четырех элементов и связей между ними:
