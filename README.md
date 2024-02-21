@@ -13,7 +13,7 @@
 1. [Типовые топологии](https://github.com/Byndyusoft/hypothesismapping/blob/main/topology.md) Карты гипотез
 1. [Стратегия как код](https://github.com/Byndyusoft/hypothesismapping/blob/main/strategyascode.md) с примерами кода
 1. [Обучение и сертификация](https://картагипотез.рф/study)
-1. [Видео-уроки](https://www.youtube.com/playlist?list=PL2iwGf_2-tlhaORb7_GGJhmLULeXSgEfz)
+1. Видео-уроки на [YouTube](https://www.youtube.com/playlist?list=PL2iwGf_2-tlhaORb7_GGJhmLULeXSgEfz) и [ВК](https://vk.com/video/playlist/83521944_2)
 
 # Структура
 Структура Карты гипотез состоит из четырех элементов и связей между ними:
