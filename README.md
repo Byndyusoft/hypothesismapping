@@ -9,6 +9,7 @@
 
 ## Ресурсы
 1. [Сайт метода](https://картагипотез.рф) ([english version](https://hypothesismapping.com))
+1. [Аккредитованные эксперты](https://картагипотез.рф/experts), которые могут обучать методу и вести стратсессии
 1. [Телеграм-канал](https://t.me/hypothesismap)
     * [Чат](https://t.me/hypothesismappingchat) для обсуждения метода
 1. [Книга](https://картагипотез.рф/book)
