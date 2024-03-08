@@ -16,6 +16,7 @@
 1. [Топологии](https://github.com/Byndyusoft/hypothesismapping/blob/main/topology.md) Карты гипотез
 1. [Стратегия как код](https://github.com/Byndyusoft/hypothesismapping/blob/main/strategyascode.md) с примерами кода
 1. [Обучение и сертификация](https://картагипотез.рф/study)
+1. [Проверка достоверности](https://картагипотез.рф/check) сертификата
 1. [Типовые ошибки](https://github.com/Byndyusoft/hypothesismapping/blob/main/troubleshooting.md) при создании Карты гипотез
 1. Видеоуроки на [YouTube](https://www.youtube.com/playlist?list=PL2iwGf_2-tlhaORb7_GGJhmLULeXSgEfz) и [ВК](https://vk.com/video/playlist/83521944_2)
 
