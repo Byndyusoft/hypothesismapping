@@ -34,7 +34,7 @@
 1. [Сертифицированные эксперты](https://картагипотез.рф/experts), которые могут обучать методу и вести стратсессии
 1. Видеоуроки на [YouTube](https://www.youtube.com/playlist?list=PL2iwGf_2-tlhaORb7_GGJhmLULeXSgEfz) и [ВК](https://vk.com/video/playlist/83521944_2)
 
-# Структура
+# Структура Карты гипотез
 Структура Карты гипотез состоит из четырех элементов и связей между ними:
 <img width="899" alt="image" src="https://github.com/AlexanderByndyu/hypothesismapping/assets/956068/1394c154-9d12-4f00-9845-fd13414940ea">
 
