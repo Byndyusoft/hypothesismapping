@@ -2,7 +2,7 @@
 
 <img width="215" alt="Screenshot 2024-03-08 at 07 02 51" src="https://github.com/Byndyusoft/hypothesismapping/assets/956068/a31f0ffa-0798-4f5a-a87a-cc38f6d1a21d">
 
-Карта гипотез – метод стратегического планирования, который применяется для визуализации следующего шага развития. Карта должна использоваться, когда нам нужно с высоты взглянуть на происходящее и ответить на вопрос «за счет чего мы собираемся достигнуть результата?».
+Карта гипотез – метод стратегического планирования для проектирования следующего шага развития.
 
 ## Границы применения
 
@@ -14,18 +14,24 @@
  * визуализацией стратегии достижения результата на основании существующих данных;
  * форматом для синхронизации видения всех заинтересованных в достижении поставленных целей.
 
+## Разделы базы знаний
+
+1. [Топологии](https://github.com/Byndyusoft/hypothesismapping/blob/main/topology.md) Карты гипотез
+1. [Стратегия как код](https://github.com/Byndyusoft/hypothesismapping/blob/main/strategyascode.md) с примерами кода
+1. [Типовые ошибки](https://github.com/Byndyusoft/hypothesismapping/blob/main/troubleshooting.md) при создании Карты гипотез
+   
 ## Ресурсы
+
 1. [Сайт метода](https://картагипотез.рф) ([english version](https://hypothesismapping.com))
-1. [Аккредитованные эксперты](https://картагипотез.рф/experts), которые могут обучать методу и вести стратсессии
 1. [Телеграм-канал](https://t.me/hypothesismap)
     * [Чат](https://t.me/hypothesismappingchat) для обсуждения метода
 1. [Книга](https://картагипотез.рф/book)
 1. [Шаблон](https://miro.com/app/board/uXjVNYPcxAQ=/?share_link_id=744337022572) Карты гипотез в Miro
-1. [Топологии](https://github.com/Byndyusoft/hypothesismapping/blob/main/topology.md) Карты гипотез
-1. [Стратегия как код](https://github.com/Byndyusoft/hypothesismapping/blob/main/strategyascode.md) с примерами кода
+
+### Обучение и сертификация
 1. [Обучение и сертификация](https://картагипотез.рф/study)
 1. [Проверка достоверности](https://картагипотез.рф/check) сертификата
-1. [Типовые ошибки](https://github.com/Byndyusoft/hypothesismapping/blob/main/troubleshooting.md) при создании Карты гипотез
+1. [Сертифицированные эксперты](https://картагипотез.рф/experts), которые могут обучать методу и вести стратсессии
 1. Видеоуроки на [YouTube](https://www.youtube.com/playlist?list=PL2iwGf_2-tlhaORb7_GGJhmLULeXSgEfz) и [ВК](https://vk.com/video/playlist/83521944_2)
 
 # Структура
