@@ -80,7 +80,8 @@
 
 Более детальное описание структуры с учетом содежания каждого элемента из [шаблона](https://miro.com/app/board/uXjVNYPcxAQ=/?share_link_id=744337022572) в Miro:
 
-<img width="1236" alt="Screenshot 2024-04-03 at 08 26 22" src="https://github.com/Byndyusoft/hypothesismapping/assets/956068/5338eeaf-2867-40f6-833e-a17be8ab9c84">
+<img width="1140" alt="Screenshot 2024-04-16 at 13 48 49" src="https://github.com/Byndyusoft/hypothesismapping/assets/956068/5149d13f-822d-4249-a0d4-6083489d0eb3">
+
 
 # Этапы работы с Картой гипотез
 
