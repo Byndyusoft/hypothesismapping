@@ -29,6 +29,7 @@
 1. [Книга](https://картагипотез.рф/book)
 1. [Шаблон](https://miro.com/app/board/uXjVNYPcxAQ=/?share_link_id=744337022572) Карты гипотез в Miro
 1. [Пример](https://blog.byndyu.ru/2024/04/blog-post_29.html) расширенного формата гипотезы.
+1. [Статьи](https://blog.byndyu.ru/search/label/Карта%20гипотез) о Карте гипотез
 
 ### Обучение и сертификация
 1. [Обучение и сертификация](https://картагипотез.рф/study)
