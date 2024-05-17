@@ -50,4 +50,4 @@
 
 Описание решений:
  * Статья https://blog.byndyu.ru/2024/05/blog-post.html
- * Видео https://www.youtube.com/watch?v=plLeDDZ6gsQ
+ * Видео https://www.youtube.com/watch?v=PehPVAI_hGQ
