@@ -51,3 +51,5 @@
 Описание решений:
  * Статья https://blog.byndyu.ru/2024/05/blog-post.html
  * Видео https://www.youtube.com/watch?v=PehPVAI_hGQ
+
+Дополнительное [пояснение](https://blog.byndyu.ru/2024/05/blog-post_7.html) через Кеневин фреймворк.
