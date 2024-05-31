@@ -53,3 +53,11 @@
  * Видео https://www.youtube.com/watch?v=PehPVAI_hGQ
 
 Дополнительное [пояснение](https://blog.byndyu.ru/2024/05/blog-post_7.html) через Кеневин фреймворк.
+
+## 7. «Потому что» не о субъекте
+
+**Проблема:** в гипотезе часть «потому что» написана не о субъекте, из-за чего есть риск, что она не сработает.
+
+Описание решений:
+ * Статья https://blog.byndyu.ru/2024/05/blog-post_31.html
+ * Видео https://www.youtube.com/watch?v=vgfZFemPLeQ
