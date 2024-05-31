@@ -89,15 +89,16 @@
 **потому что** <идея, описывающая, почему воздействие должно изменить поведение субъекта>
 
 Требования:
- * **Если** – описывается без детализации задач, которые мы можем сделать
- * **то** – изменение должно понятным образом менять поведение субъекта в сторону, которая необходима нам для достижения цели
- * **потому что** – идея опирается на знание мотивации субъекта
+ * **Если** – описывается без детализации задач, которые мы можем сделать.
+   * Типовая проблема этой части: [преждевременная конкретизация](https://github.com/Byndyusoft/hypothesismapping/blob/main/troubleshooting.md#3-преждевременная-конкретизация) 
+ * **то** – изменение должно понятным образом менять поведение субъекта в сторону, которая необходима нам для достижения цели.
+   * Типовая проблема этой части: [«то» не о субъекте](https://github.com/Byndyusoft/hypothesismapping/blob/main/troubleshooting.md#4-то-не-о-субъекте)
+ * **потому что** – идея опирается на знание мотивации субъекта.
+   * Типовая проблема этой части: [«потому что» не о субъекте](https://github.com/Byndyusoft/hypothesismapping/blob/main/troubleshooting.md#7-потому-что-не-о-субъекте) 
 
 Обратите внимание на типовые ошибки, которые допускают при описании гипотезы:
 1. [Гипотеза без идей](https://github.com/Byndyusoft/hypothesismapping/blob/main/troubleshooting.md#2-гипотезы-без-идей)
-2. [Преждевременная конкретизация](https://github.com/Byndyusoft/hypothesismapping/blob/main/troubleshooting.md#3-преждевременная-конкретизация)
-3. [«То» не о субъекте](https://github.com/Byndyusoft/hypothesismapping/blob/main/troubleshooting.md#4-то-не-о-субъекте)
-4. [Не гипотеза, а запрос на анализ](https://github.com/Byndyusoft/hypothesismapping/blob/main/troubleshooting.md#5-не-гипотеза-а-запрос-на-анализ)
+1. [Не гипотеза, а запрос на анализ](https://github.com/Byndyusoft/hypothesismapping/blob/main/troubleshooting.md#5-не-гипотеза-а-запрос-на-анализ)
 
 С гипотезой связана топология [Соединение целей и гипотез вместо целей и субъектов](https://github.com/Byndyusoft/hypothesismapping/blob/main/topology.md#3-соединение-целей-и-гипотез-вместо-целей-и-субъектов).
 
