@@ -134,7 +134,7 @@
 
 Более детальное описание структуры с учетом содержания каждого элемента из [шаблона](https://miro.com/app/board/uXjVNYPcxAQ=/?share_link_id=744337022572) в Miro:
 
-<img width="1140" alt="Screenshot 2024-04-16 at 13 48 49" src="https://github.com/Byndyusoft/hypothesismapping/assets/956068/5149d13f-822d-4249-a0d4-6083489d0eb3">
+<img width="1163" alt="image" src="https://github.com/Byndyusoft/hypothesismapping/assets/956068/abf05767-d0fe-446d-a634-2c35c84b3e42">
 
 ## Цветовая кодировка
 Важно сохранять цветовую кодировку единую для всех Карт гипотез:
