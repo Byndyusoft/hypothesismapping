@@ -31,7 +31,7 @@
 1. [Телеграм-канал](https://t.me/hypothesismap)
     * [Чат](https://t.me/hypothesismappingchat) для обсуждения метода
 1. [Книга](https://картагипотез.рф/book)
-1. [Шаблон](https://miro.com/app/board/uXjVNYPcxAQ=/?share_link_id=744337022572) Карты гипотез в Miro
+1. Шаблон Карты гипотез в [Miro](https://miro.com/app/board/uXjVNYPcxAQ=/?share_link_id=744337022572) и в [Эсборде](https://sboard.online/boards/7d76fce5-0481-47ea-ac79-bd3f2439bed6)
 1. [Пример](https://blog.byndyu.ru/2024/04/blog-post_29.html) расширенного формата гипотезы.
 1.  Карта гипотез [на уровне личной стратегии](https://blog.byndyu.ru/2024/01/blog-post_7.html)
 1. [Статьи](https://blog.byndyu.ru/search/label/Карта%20гипотез) о Карте гипотез
@@ -132,7 +132,7 @@
 
 ## Детализированная структура
 
-Более детальное описание структуры с учетом содержания каждого элемента из [шаблона](https://miro.com/app/board/uXjVNYPcxAQ=/?share_link_id=744337022572) в Miro:
+Более детальное описание структуры с учетом содержания каждого элемента из шаблона в [Miro](https://miro.com/app/board/uXjVNYPcxAQ=/?share_link_id=744337022572) или [Эксборде](https://sboard.online/boards/7d76fce5-0481-47ea-ac79-bd3f2439bed6):
 
 <img width="1163" alt="image" src="https://github.com/Byndyusoft/hypothesismapping/assets/956068/abf05767-d0fe-446d-a634-2c35c84b3e42">
 
