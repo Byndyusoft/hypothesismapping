@@ -132,9 +132,10 @@
 
 ## Детализированная структура
 
-Более детальное описание структуры с учетом содержания каждого элемента из шаблона в [Miro](https://miro.com/app/board/uXjVNYPcxAQ=/?share_link_id=744337022572) или [Эксборде](https://sboard.online/boards/7d76fce5-0481-47ea-ac79-bd3f2439bed6):
+Более детальное описание структуры с учетом содержания каждого элемента из шаблона в [Miro](https://miro.com/app/board/uXjVNYPcxAQ=/) или [Эксборде](https://sboard.online/boards/7d76fce5-0481-47ea-ac79-bd3f2439bed6):
 
-<img width="1163" alt="image" src="https://github.com/Byndyusoft/hypothesismapping/assets/956068/abf05767-d0fe-446d-a634-2c35c84b3e42">
+<img width="1190" alt="Screenshot 2024-08-09 at 11 45 37" src="https://github.com/user-attachments/assets/8fc526e3-d3c4-4b9b-a827-8e4b6669ac21">
+
 
 ## Цветовая кодировка
 Важно сохранять цветовую кодировку единую для всех Карт гипотез:
