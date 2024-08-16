@@ -35,6 +35,7 @@
 1. [Пример](https://blog.byndyu.ru/2024/04/blog-post_29.html) расширенного формата гипотезы.
 1.  Карта гипотез [на уровне личной стратегии](https://blog.byndyu.ru/2024/01/blog-post_7.html)
 1. [Статьи](https://blog.byndyu.ru/search/label/Карта%20гипотез) о Карте гипотез
+1. Зеркало этой [базы знаний на gitverse](https://gitverse.ru/byndyusoft/hypothesismapping)
 
 ### Обучение и сертификация
 1. [Обучение и сертификация](https://картагипотез.рф/study)
