@@ -27,7 +27,7 @@
 
 Описание решений:
  * Статья https://blog.byndyu.ru/2024/02/blog-post.html
- * Видео https://www.youtube.com/watch?v=dpPytnDP2-k
+ * Видео https://rutube.ru/video/db8aadc6aa157463ed87eb3c401e5a2d/
 
 ### 3. Преждевременная конкретизация
 
@@ -35,7 +35,7 @@
 
 Описание решений:
  * Статья https://blog.byndyu.ru/2024/03/blog-post_13.html
- * Видео https://www.youtube.com/watch?v=zE38erNLGMo
+ * Видео https://rutube.ru/video/6462ceb3e9bee4cad8a75f30133d1049/
 
 Дополнительные материалы:
 1. [Как понять, что написал в воздействии задачу, а не принцип или механизм срабатывания?](https://github.com/Byndyusoft/hypothesismapping/blob/main/knowhow.md#-как-понять-что-написал-в-воздействии-задачу-а-не-принцип-или-механизм-срабатывания) в разделе «Знаю как».
@@ -47,7 +47,7 @@
 
 Описание решений:
  * Статья https://blog.byndyu.ru/2024/03/blog-post_25.html
- * Видео https://www.youtube.com/watch?v=xqlrmdOFG34
+ * Видео https://rutube.ru/video/e46b85975718047ed8daa4d7980d9470/?
 
 ### 5. Не гипотеза, а запрос на анализ
 
@@ -55,7 +55,7 @@
 
 Описание решений:
  * Статья https://blog.byndyu.ru/2024/04/blog-post.html
- * Видео https://www.youtube.com/watch?v=plLeDDZ6gsQ
+ * Видео https://rutube.ru/video/c79f747c5b829315641fe1bc2b88d270/
 
 ### 6. Задача вместо цели
 
@@ -63,7 +63,7 @@
 
 Описание решений:
  * Статья https://blog.byndyu.ru/2024/05/blog-post.html
- * Видео https://www.youtube.com/watch?v=PehPVAI_hGQ
+ * Видео https://rutube.ru/video/325fcd637572f952da13e067f2ccda62/
 
 Дополнительные материалы:
 1. [Пояснение](https://blog.byndyu.ru/2024/05/blog-post_7.html) через Кеневин фреймворк.
@@ -76,7 +76,7 @@
 
 Описание решений:
  * Статья https://blog.byndyu.ru/2024/05/blog-post_31.html
- * Видео https://www.youtube.com/watch?v=vgfZFemPLeQ
+ * Видео https://rutube.ru/video/f5f6c02bc82e9c3c145410f613ef64fb/
 
 ### Дополнительные материалы
 1. Разбор типовых ошибок в гипотезах в [видеоуроке](https://blog.byndyu.ru/2024/06/blog-post_29.html)
