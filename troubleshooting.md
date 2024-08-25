@@ -61,7 +61,10 @@
  * Статья https://blog.byndyu.ru/2024/05/blog-post.html
  * Видео https://www.youtube.com/watch?v=PehPVAI_hGQ
 
-Дополнительное [пояснение](https://blog.byndyu.ru/2024/05/blog-post_7.html) через Кеневин фреймворк.
+Дополнительные материалы:
+1. [Пояснение](https://blog.byndyu.ru/2024/05/blog-post_7.html) через Кеневин фреймворк.
+2. [Как отличить истинную цель от ложной](https://github.com/Byndyusoft/hypothesismapping/blob/main/knowhow.md#-как-отличить-истинную-цель-от-ложной) в разделе «Знаю как»
+
 
 ### 7. «Потому что» не о субъекте
 
