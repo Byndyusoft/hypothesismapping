@@ -19,7 +19,7 @@
 
 Описание решений:
  * Статья https://blog.byndyu.ru/2024/02/blog-post_20.html
- * Видео https://www.youtube.com/watch?v=JWqILK1P-kU 
+ * Видео https://rutube.ru/video/b3a70d9f66c84c9f45ec24b5b2a24188/ 
 
 ### 2. Гипотеза без идей
 
