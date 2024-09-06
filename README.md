@@ -38,15 +38,16 @@
 1. [Пример](https://blog.byndyu.ru/2024/04/blog-post_29.html) расширенного формата гипотезы.
 1. Карта гипотез [на уровне личной стратегии](https://blog.byndyu.ru/2024/01/blog-post_7.html)
 1. [Статьи](https://blog.byndyu.ru/search/label/Карта%20гипотез) о Карте гипотез
+1. Видеоуроки [ВКонтакте](https://vk.com/video/playlist/83521944_2), [Rutube](https://rutube.ru/plst/466894/), [YouTube](https://www.youtube.com/playlist?list=PL2iwGf_2-tlhaORb7_GGJhmLULeXSgEfz)
+1. [Подскаст](https://music.yandex.ru/album/32512765/) о Карте гипотез.
 1. Зеркало этой [базы знаний на gitverse](https://gitverse.ru/byndyusoft/hypothesismapping)
 
 ### Обучение и сертификация
+Схема сертификации:
+![Схема тренингов](https://github.com/user-attachments/assets/4ff940b8-22ce-46b8-a2cf-a8cfa8e7fd08)
 
 1. [Обучение и сертификация](https://картагипотез.рф/study)
 1. [Проверка достоверности](https://картагипотез.рф/check) сертификата
-1. [Сертифицированные эксперты](https://картагипотез.рф/experts), которые могут обучать методу и вести стратсессии
-1. Видеоуроки [ВКонтакте](https://vk.com/video/playlist/83521944_2), [Rutube](https://rutube.ru/plst/466894/), [YouTube](https://www.youtube.com/playlist?list=PL2iwGf_2-tlhaORb7_GGJhmLULeXSgEfz)
-1. [Подскаст](https://music.yandex.ru/album/32512765/) о Карте гипотез.
 
 # Стандарт метода
 
