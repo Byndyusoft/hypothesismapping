@@ -34,7 +34,7 @@
 1. [Телеграм-канал](https://t.me/hypothesismap)
    - [Чат](https://t.me/hypothesismappingchat) для обсуждения метода
 1. [Книга](https://картагипотез.рф/book)
-1. Шаблон Карты гипотез в [Miro](https://miro.com/app/board/uXjVNYPcxAQ=/?share_link_id=744337022572) и в [Эсборде](https://sboard.online/boards/7d76fce5-0481-47ea-ac79-bd3f2439bed6)
+1. Шаблон Карты гипотез в [Холсте](https://app.holst.so/share/b/cd179364-7578-4e2f-bda7-bf225c545879), [Miro](https://miro.com/app/board/uXjVNYPcxAQ=/?share_link_id=744337022572) и [Эсборде](https://sboard.online/boards/7d76fce5-0481-47ea-ac79-bd3f2439bed6)
 1. [Пример](https://blog.byndyu.ru/2024/04/blog-post_29.html) расширенного формата гипотезы.
 1. Карта гипотез [на уровне личной стратегии](https://blog.byndyu.ru/2024/01/blog-post_7.html)
 1. [Статьи](https://blog.byndyu.ru/search/label/Карта%20гипотез) о Карте гипотез
@@ -152,7 +152,7 @@
 
 ## Детализированная структура
 
-Более детальное описание структуры с учетом содержания каждого элемента из шаблона в [Miro](https://miro.com/app/board/uXjVNYPcxAQ=/) или [Эксборде](https://sboard.online/boards/7d76fce5-0481-47ea-ac79-bd3f2439bed6):
+Более детальное описание структуры с учетом содержания каждого элемента из шаблона в [Холсте](https://app.holst.so/share/b/cd179364-7578-4e2f-bda7-bf225c545879), [Miro](https://miro.com/app/board/uXjVNYPcxAQ=/) или [Эксборде](https://sboard.online/boards/7d76fce5-0481-47ea-ac79-bd3f2439bed6):
 
 <img width="1190" alt="Screenshot 2024-08-09 at 11 45 37" src="https://github.com/user-attachments/assets/8fc526e3-d3c4-4b9b-a827-8e4b6669ac21">
 
