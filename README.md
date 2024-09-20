@@ -27,6 +27,7 @@
 1. [Стратегия как код](https://github.com/Byndyusoft/hypothesismapping/blob/main/strategyascode.md) с примерами кода
 1. [Типовые ошибки](https://github.com/Byndyusoft/hypothesismapping/blob/main/troubleshooting.md) при создании Карты гипотез
 1. [Приёмы](knowhow.md) в разделе «Знаю как»
+1. [Примеры](examples.md) карт гипотез из практики
 
 ## Внешние ресурсы
 
