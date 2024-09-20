@@ -10,5 +10,5 @@
 
 ## Бытовые ситуации
 1. [Сделаем](https://vc.ru/opinions/1287933-sdelaem-patriki-snova-tihimi) Патрики снова тихими! 
-1. [Как убедить сервисную компанию](https://blog.byndyu.ru/2024/05/blog-post_27.html) починить мою кофемашину?
+1. [Как убедить сервисную компанию](https://blog.byndyu.ru/2024/05/blog-post_27.html) починить мою хлебопечку?
 1. [Как избавиться](https://blog.byndyu.ru/2024/08/blog-post_31.html) от бродячих собак?
