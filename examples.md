@@ -5,6 +5,9 @@
 ### IT
 1. [Как обосновать бизнесу](https://blog.byndyu.ru/2024/08/it.html) работу над IT-архитектурой и техдолгом? 
 
+### Госуправление
+1. [Визуализация стратегии](https://vc.ru/links/1227904-vizualizaciya-strategii-samogo-masshtabnogo-preobrazovaniya-nashei-strany-v-sovremennoi-istorii) самого масштабного преобразования нашей страны в современной истории
+
 ### Менторство
 1. [Работа со сверхценными идеями](https://blog.byndyu.ru/2024/01/blog-post_7.html) и направлением влияния
 
