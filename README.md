@@ -28,6 +28,7 @@
 1. [Типовые ошибки](https://github.com/Byndyusoft/hypothesismapping/blob/main/troubleshooting.md) при создании Карты гипотез
 1. [Приёмы](knowhow.md) в разделе «Знаю как»
 1. [Примеры](examples.md) карт гипотез из практики
+1. [Сессии](stratsession.md) стратегического планирования
 
 ## Внешние ресурсы
 
@@ -192,6 +193,8 @@
 <img width="1174" alt="image" src="https://github.com/Byndyusoft/hypothesismapping/assets/956068/096a6b81-f4e9-4cd6-bb92-80b318dd67fe">
 
 Схему можно посмотреть и скачать по [этой ссылке](https://speakerdeck.com/alexanderbyndyu/protsiess-orghanizatsii-stratsiesii-s-pomoshchiu-karty-ghipotiez).
+
+Весь процесс и требования к проведению стратсессий смотрите в [соответствующем разделе](stratsession.md) базы знаний.
 
 ### ЭКГ (экспресс Карта гипотез)
 
