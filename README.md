@@ -158,7 +158,7 @@
 
 ## Детализированная структура
 
-Более детальное описание структуры с учетом содержания каждого элемента из шаблона в [Холсте](https://app.holst.so/share/b/cd179364-7578-4e2f-bda7-bf225c545879), [Miro](https://miro.com/app/board/uXjVNYPcxAQ=/) или [Эксборде](https://sboard.online/boards/7d76fce5-0481-47ea-ac79-bd3f2439bed6):
+Более детальное описание структуры с учетом содержания каждого элемента из шаблона в [Холсте](https://app.holst.so/share/b/cd179364-7578-4e2f-bda7-bf225c545879), [Miro](https://miro.com/app/board/uXjVNYPcxAQ=/) или [Эсборде](https://sboard.online/boards/7d76fce5-0481-47ea-ac79-bd3f2439bed6):
 
 <img width="1190" alt="Screenshot 2024-08-09 at 11 45 37" src="https://github.com/user-attachments/assets/8fc526e3-d3c4-4b9b-a827-8e4b6669ac21">
 
