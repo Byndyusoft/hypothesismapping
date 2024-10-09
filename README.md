@@ -46,6 +46,7 @@
 1. [Статьи](https://blog.byndyu.ru/search/label/Карта%20гипотез) о Карте гипотез
 1. Видеоуроки [ВКонтакте](https://vk.com/video/playlist/83521944_2), [Rutube](https://rutube.ru/plst/466894/), [YouTube](https://www.youtube.com/playlist?list=PL2iwGf_2-tlhaORb7_GGJhmLULeXSgEfz)
 1. [Подскаст](https://music.yandex.ru/album/32512765/) о Карте гипотез.
+1. [Методологическая красота](https://t.me/SRPRfeed/10) о Карте гипотез
 1. Зеркало этой [базы знаний на gitverse](https://gitverse.ru/byndyusoft/hypothesismapping)
 
 ### Обучение и сертификация
