@@ -275,7 +275,7 @@
 
 ### Общая схема создания сложных сервисов и услуг
 
-![photo_2024-09-08 14 25 36](https://github.com/user-attachments/assets/c7637216-991a-429f-be06-3f9e78aed7aa)
+![Схема шага развития (1)](https://github.com/user-attachments/assets/6c28d427-5cfc-4ae2-bc01-cba223e844ad)
 
 Подробности [на странице с описанием всей схемы анализа](https://byndyusoft.com/productanalysis).
 
