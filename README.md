@@ -293,7 +293,7 @@
 
 ![Схема шага развития (1)](https://github.com/user-attachments/assets/6c28d427-5cfc-4ae2-bc01-cba223e844ad)
 
-Подробности [на странице с описанием всей схемы анализа](https://byndyusoft.com/productanalysis).
+Подробности на странице с описанием [всей схемы анализа](https://byndyusoft.com/productanalysis) и в [статье](https://blog.byndyu.ru/2024/10/it.html).
 
 ## 4. Управление изменениями
 
