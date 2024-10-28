@@ -37,7 +37,7 @@
 ## Внешние ресурсы
 
 1. [Сайт метода](https://картагипотез.рф) ([english version](https://hypothesismapping.com))
-1. [Телеграм-канал](https://t.me/hypothesismap)
+1. [Телеграм-канал](https://t.me/hypothesismap) и [группа ВКонтакте](https://vk.com/hypothesismap)
    - [Чат](https://t.me/hypothesismappingchat) для обсуждения метода
 1. [Книга](https://картагипотез.рф/book)
 1. Шаблон Карты гипотез в [Холсте](https://app.holst.so/share/b/cd179364-7578-4e2f-bda7-bf225c545879), [Miro](https://miro.com/app/board/uXjVNYPcxAQ=/?share_link_id=744337022572) и [Эсборде](https://sboard.online/boards/7d76fce5-0481-47ea-ac79-bd3f2439bed6)
