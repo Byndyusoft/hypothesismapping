@@ -31,6 +31,7 @@
 1. [Стратегия как код](https://github.com/Byndyusoft/hypothesismapping/blob/main/strategyascode.md) с примерами кода
 1. [Типовые ошибки](https://github.com/Byndyusoft/hypothesismapping/blob/main/troubleshooting.md) при создании Карты гипотез
 1. [Приёмы](knowhow.md) в разделе «Знаю как»
+1. [Стратегические](strategicgames.md) игры с помощью Карты гипотез
 1. [Примеры](examples.md) карт гипотез из практики
 1. [Сессии](stratsession.md) стратегического планирования
 
@@ -326,3 +327,13 @@
 Автором метода является Александр Бындю. Для коммерческого использования метода общайтесь к автору.
 
 Сайт автора https://byndyu.ru
+
+# Посмотрите другие разделы базы знаний
+
+1. [Топологии](https://github.com/Byndyusoft/hypothesismapping/blob/main/topology.md) Карты гипотез
+1. [Стратегия как код](https://github.com/Byndyusoft/hypothesismapping/blob/main/strategyascode.md) с примерами кода
+1. [Типовые ошибки](https://github.com/Byndyusoft/hypothesismapping/blob/main/troubleshooting.md) при создании Карты гипотез
+1. [Приёмы](knowhow.md) в разделе «Знаю как»
+1. [Стратегические](strategicgames.md) игры с помощью Карты гипотез
+1. [Примеры](examples.md) карт гипотез из практики
+1. [Сессии](stratsession.md) стратегического планирования
