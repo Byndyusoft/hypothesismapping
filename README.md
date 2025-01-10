@@ -220,7 +220,7 @@
 
 <img width="1186" alt="Screenshot 2024-10-23 at 07 19 23" src="https://github.com/user-attachments/assets/d1f37805-135a-419b-bad4-f642acf8075d">
 
-Подробное описание с плюсами и минусами в [этой статье](https://blog.byndyu.ru/2024/10/blog-post_23.html).
+Подробное описание с видеоуроком [этой статье](https://vc.ru/education/1745099-videourok-ekspress-karta-gipotez-po-krasnomu-puti-na-primere).
 
 ### Роли участников стратегической сессии
 
