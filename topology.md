@@ -118,3 +118,11 @@
 
 ### Схема
 <img width="1220" alt="image" src="https://github.com/user-attachments/assets/8a1d6d82-3187-4ecf-acf0-7bce4cdd6c6f">
+
+## Посмотрите другие разделы
+1. [Типовые ошибки](troubleshooting.md) при создании Карты гипотез
+1. [Технические приёмы](techniques.md) работы с картами и фасилитации
+1. [Стратегические](strategicgames.md) игры с помощью Карты гипотез
+1. [Примеры](examples.md) карт гипотез из практики
+1. [Сессии](stratsession.md) стратегического планирования
+1. [Стратегия как код](strategyascode.md) с примерами кода
