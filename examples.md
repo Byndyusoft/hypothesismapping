@@ -20,3 +20,11 @@
 1. [Как убедить сервисную компанию](https://blog.byndyu.ru/2024/05/blog-post_27.html) починить мою хлебопечку?
 1. [Как избавиться](https://blog.byndyu.ru/2024/08/blog-post_31.html) от бродячих собак?
 1. [Повышение эффективности](https://vc.ru/life/1498835-strategicheskoe-myshlenie-pomogaet-i-v-tvorchestve-i-v-izobretatelstve) творчества
+
+## Посмотрите другие разделы
+1. [Топологии](topology.md) Карты гипотез
+1. [Типовые ошибки](troubleshooting.md) при создании Карты гипотез
+1. [Технические приёмы](techniques.md) работы с картами и фасилитации
+1. [Стратегические](strategicgames.md) игры с помощью Карты гипотез
+1. [Сессии](stratsession.md) стратегического планирования
+1. [Стратегия как код](strategyascode.md) с примерами кода
