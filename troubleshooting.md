@@ -4,20 +4,20 @@
 
 ## Содержание
 
-- [Типовые ошибки в Целях](#purposes)
+- [Типовые ошибки](#purposes) в Целях
   - [Задача вместо цели](#taskaspurposes)
   - [Метрика не связана с целью](#incorrectmetric)
-- [Типовые ошибки в Субъектах](#subjects)
-  - [Исполнители на месте субъектов](#executorassubject)
-  - [Мотивация не субъекта](#notsubjectmotivation)
-  - [Не корневая мотивация](#notrootmotivation)
-- [Типовые ошибки в Гипотезах](#hypothesis)
-  - [Гипотеза без идей](#noideas)
-  - [Преждевременная конкретизация](#taskinhypothesis)
-  - [«То» не о субъекте](#thennotaboutsubject)
-  - [Не гипотеза, а запрос на анализ](#requestnalysis)
-  - [«Потому что» не о субъекте](#becausenotaboutsubject)
-- [Дополнительные материалы о типовых ошибках](#additional)
+- [Типовые ошибки](#subjects) в Субъектах
+  - [Исполнители](#executorassubject) на месте субъектов
+  - [Мотивация](#notsubjectmotivation) не субъекта
+  - [Не корневая](#notrootmotivation) мотивация
+- [Типовые ошибки](#hypothesis) в Гипотезах
+  - [Гипотеза](#noideas) без идей
+  - [Преждевременная](#taskinhypothesis) конкретизация
+  - [«То»](#thennotaboutsubject) не о субъекте
+  - [Не гипотеза](#requestnalysis), а запрос на анализ
+  - [«Потому что»](#becausenotaboutsubject) не о субъекте
+- [Дополнительные](#additional) материалы о типовых ошибках
 
 
 ## <a id="purposes"></a> Типовые ошибки в Целях
