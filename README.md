@@ -1,6 +1,6 @@
 # База знаний о методе «Карта гипотез»
 
-<img width="215" alt="Screenshot 2024-03-08 at 07 02 51" src="https://github.com/Byndyusoft/hypothesismapping/assets/956068/a31f0ffa-0798-4f5a-a87a-cc38f6d1a21d">
+<img width="200" alt="Screenshot 2025-01-24 at 15 51 20" src="https://github.com/user-attachments/assets/e83e37d8-0822-44ee-a1f5-24d55a03f84c" />
 
 Карта гипотез – метод стратегического планирования. Ключевая часть метода – это универсальная нотация записи стратегии, которая подходит для описания стратегии в любой деятельности.
 
