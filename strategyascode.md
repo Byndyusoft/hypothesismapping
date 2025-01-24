@@ -159,11 +159,11 @@ flowchart RL
 
 [https://www.mermaidchart.com/app/projects/c014cef2-aae1-4690-8032-d73dcc3bd47f/diagrams/c1688286-22d4-4e86-942a-273d7af92195/version/v0.1/edit](https://www.mermaidchart.com/app/projects/c014cef2-aae1-4690-8032-d73dcc3bd47f/diagrams/c1688286-22d4-4e86-942a-273d7af92195/version/v0.1/edit)
 
-## Посмотрите другие разделы
+## Посмотрите другие разделы базы знаний
 1. [Топологии](topology.md) Карты гипотез
-1. [Типовые ошибки](troubleshooting.md) при создании Карты гипотез
 1. [Технические приёмы](techniques.md) работы с картами и фасилитации
 1. [Личная стратегия](personalstrategy.md)
+1. [Стандарт метода](standard.md)
 1. [Стратегические](strategicgames.md) игры с помощью Карты гипотез
 1. [Примеры](examples.md) карт гипотез из практики
 1. [Сессии](stratsession.md) стратегического планирования
