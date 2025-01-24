@@ -17,7 +17,7 @@
 Универстальная топология.
 
 ### Схема
-<img width="811" alt="image" src="https://github.com/user-attachments/assets/33348fda-d26b-491d-9a17-51911c5005d7">
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/33348fda-d26b-491d-9a17-51911c5005d7">
 
 ## 2. Метрики цели на отдельном уровне
 
@@ -34,7 +34,7 @@
 Применяется, если у вас много количественных целей и нужно обозначить связь конкретной количественной цели с конкретным субъектом.
 
 ### Схема
-<img width="1057" alt="image" src="https://github.com/user-attachments/assets/21e84d3b-855e-4e24-9ea6-aee9d80148d8">
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/21e84d3b-855e-4e24-9ea6-aee9d80148d8">
 
 ## 3. Соединение целей и гипотез вместо целей и субъектов
 
@@ -55,7 +55,7 @@
 Бонусом появляется возможность увидеть цели без гипотез, потому что к таким целям не будет идти ни одна стрелочка.
 
 ### Схема
-<img width="781" alt="image" src="https://github.com/user-attachments/assets/efe826b1-4565-4f20-b0a2-c1e9d531abf5">
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/efe826b1-4565-4f20-b0a2-c1e9d531abf5">
 
 ## 4. Разбивка задач по направлениям
 
@@ -72,7 +72,7 @@
 Что не рекомендуется делать: менять цвет у самих задач. В этом случае цветовое кодирование (зелёный, оранжевый, жёлтый, синий) Карты гипотез теряет силу.
 
 ### Схема
-<img width="916" alt="image" src="https://github.com/user-attachments/assets/a4fdb2f2-ed38-4f34-a5b6-4b5087461d9d">
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/a4fdb2f2-ed38-4f34-a5b6-4b5087461d9d">
 
 ## 5. Группировка элементов
 
@@ -87,7 +87,7 @@
 ### Схема
 Посмотрите эту топологию на примере субъектов, где к каждому из трех субъектов относится верхняя гипотеза, а нижняя идет к конкретному субъекту:
 
-<img width="683" alt="image" src="https://github.com/user-attachments/assets/35537acb-d792-448c-b29e-7f96da79ecef">
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/35537acb-d792-448c-b29e-7f96da79ecef">
 
 ## 6. Мотивация субъекта на отдельном уровне
 
@@ -106,7 +106,7 @@
 Это похоже на то, как мы выносим метрики цели на отдельный уровень во второй топологии.
 
 ### Схема
-<img width="831" alt="image" src="https://github.com/user-attachments/assets/adca537a-0beb-4652-bc78-682e34729b98">
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/adca537a-0beb-4652-bc78-682e34729b98">
 
 ## 7. <a href="manylevels"></a> Многоуровневая карта
 
@@ -117,7 +117,7 @@
 Стратегии создаются на разных уровнях. Часто так случается, что верхнеуровневая стратегия содержит масштабные задачи. Например, в задачах на уровне совета директоров может быть написано «построить новый завод». Тогда для каждой из этих задач нужно построить свою карту, где будет визуализирована стратегия достижения целей задачи.
 
 ### Схема
-<img width="1220" alt="image" src="https://github.com/user-attachments/assets/8a1d6d82-3187-4ecf-acf0-7bce4cdd6c6f">
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/8a1d6d82-3187-4ecf-acf0-7bce4cdd6c6f">
 
 ## Посмотрите другие разделы базы знаний
 1. [Топологии](topology.md) Карты гипотез
