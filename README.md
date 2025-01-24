@@ -210,7 +210,7 @@
 
 <img width="1174" alt="image" src="https://github.com/Byndyusoft/hypothesismapping/assets/956068/096a6b81-f4e9-4cd6-bb92-80b318dd67fe">
 
-Схему можно посмотреть и скачать по [этой ссылке](https://speakerdeck.com/alexanderbyndyu/protsiess-orghanizatsii-stratsiesii-s-pomoshchiu-karty-ghipotiez).
+Схему можно посмотреть и скачать по [этой ссылке](https://app.holst.so/share/b/cf82cc57-f5c7-4a94-9395-5491130b8dac).
 
 Весь процесс и требования к проведению стратсессий смотрите в [соответствующем разделе](stratsession.md) базы знаний.
 
