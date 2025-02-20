@@ -15,7 +15,8 @@
 Докладчик: Петр Костюков – стратегический консультант по B2B, более 20 лет в продажах B2B: собственный бизнес, Ex-Microsoft, ex-UiPath. Применял на практике различные методы продаж, так как Solution Selling, SPIN, «Challenger» или Insight Selling, и даже PPVVC. Канал в телеграм Про БОЛЬШИЕ продажи.
 
 Материалы:
-* ...
+* [Видео](https://rutube.ru/video/14bc831dd69fcd4173a8f40204018a50/)
+* [Слайды](https://speakerdeck.com/alexanderbyndyu/primienieniie-ekg-po-krasnomu-puti-dlia-povyshieniia-effiektivnosti-prodazh)
 
 ### №5. Доклад: Аквариум и другие фишки фасилитации для Карты Гипотез
 12.02.2025
