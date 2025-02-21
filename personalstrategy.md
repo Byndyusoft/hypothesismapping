@@ -32,6 +32,10 @@
 
 <img width="513" alt="image" src="https://github.com/user-attachments/assets/dcc26516-cd71-4b16-96d1-1e825703e11d" />
 
+## Отзывы участников
+1. [Виктория Санкина](https://картагипотез.рф/tpost/pxenpl6nh1-viktoriya-sankina-osnovatelnitsa-lionfil), основательница LionFilm
+1. [Елена Бондарук](https://картагипотез.рф/tpost/hz3m594fp1-elena-bondaruk-mezhdunarodnii-ekspert-v), международный эксперт в сфере оценки и развития личного и профессионального потенциала
+
 ## Посмотрите другие разделы базы знаний
 1. [Топологии](topology.md) Карты гипотез
 1. [Технические приёмы](techniques.md) работы с картами и фасилитации
