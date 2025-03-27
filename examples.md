@@ -16,8 +16,9 @@
 ### Госуправление
 1. [Визуализация стратегии](https://vc.ru/links/1227904-vizualizaciya-strategii-samogo-masshtabnogo-preobrazovaniya-nashei-strany-v-sovremennoi-istorii) самого масштабного преобразования нашей страны в современной истории
 
-### Менторство
+## Личная стратегия
 1. [Работа со сверхценными идеями](https://blog.byndyu.ru/2024/01/blog-post_7.html) и направлением влияния
+1. [Создание личной](https://rutube.ru/video/39bb39ef19f013e7680b39c8ea1ec801/) стратегии в прямом эфире
 
 ## Бытовые ситуации
 1. [Сделаем](https://vc.ru/opinions/1287933-sdelaem-patriki-snova-tihimi) Патрики снова тихими! 
