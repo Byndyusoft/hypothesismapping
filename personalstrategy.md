@@ -12,6 +12,7 @@
 
 ## Видеоматериалы
 1. [Создание личной](https://rutube.ru/video/39bb39ef19f013e7680b39c8ea1ec801/) стратегии в прямом эфире
+   * [Доска](https://app.holst.so/share/b/81bdc17f-1ea0-40fd-8adc-da820350d131) с картой  
 1. [Карта гипотез](https://blog.byndyu.ru/2024/01/blog-post_7.html) для ментора 
 1. [Танец](https://blog.byndyu.ru/2025/03/blog-post.html) ментора и менти
 
