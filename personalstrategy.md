@@ -11,7 +11,7 @@
 1. Возможность поменять направленность действий, когда человек зациклен на изменении себя и не понимает, что нужно повлиять ещё и на свое окружение.
 
 ## Шаблон с примерами
-<img width="496" alt="image" src="https://github.com/user-attachments/assets/5929e654-c074-413e-8df0-52cb84151c80" />
+<img width="1066" alt="image" src="https://github.com/user-attachments/assets/57fcfd6b-4d2b-4d15-bf12-24d48f61dfa2" />
 
 Шаблон для создания личной стратегии с примерами можно [изучить по ссылке](https://app.holst.so/share/b/cd179364-7578-4e2f-bda7-bf225c545879?objectId=5a6fa5f6-c655-4d8c-9e9b-19fb2ebd98db).
 
