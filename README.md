@@ -287,7 +287,7 @@ _Например, ваш подчиненный специально настр
 
 Список методов, которые обычно используются до стратегического планирования с помощью Карты:<br>
 
-1. [Связанный SWOT-анализ](https://vc.ru/links/1923685-svyazannyy-swot-analiz-novyy-podkhod) 一 это новый вариант известного SWOT-анализа.
+1. [Связанный SWOT-анализ](https://github.com/Byndyusoft/linkedswot) 一 это вариант SWOT-анализа, который оптимизирован под работу с Картой гипотез.
   * Посмотрите [статью и видео](https://vc.ru/life/1645635-bazovye-instrumenty-stratsessii), как использовать развернутый SWOT-анализ в связке с Картой гипотез
 1. [Customer Development](https://vc.ru/marketing/575262-customer-development-ili-kastdev-custdev-v-biznese-instrukciya-s-primerami), или CusDev – подход, позволяющий определить потребность потенциальных заказчиков, проверить и уточнить эту потребность на практике для разработки решения, за которое будут платить.
 1. [Jobs to be Done](https://kanbanguide.ru/wp-content/uploads/2021/09/coffee-and-kale-ru.pdf) (JTBD) – в этом подходе вы описываете, какую работу хочет сделать клиент. У него есть задача, которую надо выполнить (job to be done), и он ищет лучший продукт, который поможет ему в этом.
