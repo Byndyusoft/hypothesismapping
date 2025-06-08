@@ -16,8 +16,10 @@
 Шаблон для создания личной стратегии с примерами можно [изучить по ссылке](https://app.holst.so/share/b/cd179364-7578-4e2f-bda7-bf225c545879?objectId=5a6fa5f6-c655-4d8c-9e9b-19fb2ebd98db).
 
 ## Видеоматериалы
-1. [Создание личной](https://rutube.ru/video/39bb39ef19f013e7680b39c8ea1ec801/) стратегии в прямом эфире
-   * [Доска](https://app.holst.so/share/b/81bdc17f-1ea0-40fd-8adc-da820350d131) с картой  
+1. [Создание личной](https://rutube.ru/video/39bb39ef19f013e7680b39c8ea1ec801/) стратегии Кирилла Сизова
+   * [Доска](https://app.holst.so/share/b/81bdc17f-1ea0-40fd-8adc-da820350d131) с картой
+1. [Разбора личной стратегии](https://rutube.ru/video/63272cb164814c4b12a13ad3566745ad/) Александра Лапина
+   * [Доска](https://app.holst.so/share/b/6d05e48e-b7b1-4e17-90bb-2f03a0f9e43b) с картой
 1. [Карта гипотез](https://blog.byndyu.ru/2024/01/blog-post_7.html) для ментора 
 1. [Танец](https://blog.byndyu.ru/2025/03/blog-post.html) ментора и менти
 
