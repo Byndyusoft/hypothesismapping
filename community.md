@@ -24,8 +24,8 @@
 Докладчик: Александр Бындю – автор технологии
 
 Материалы:
-* Видео...
-* Презентация...
+* [Видео](https://rutube.ru/video/0be1c8c1502c8f14f3739dc902242087/)
+* [Презентация](https://speakerdeck.com/alexanderbyndyu/uskorieniie-sozdaniia-stratieghii-s-pomoshchiu-ii)
 
 ### №12 Мастер-класс: Разбор личной стратегии Александра Лапина в прямом эфире
 04.06.2025
