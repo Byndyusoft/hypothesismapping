@@ -42,7 +42,7 @@
 1. [Телеграм-канал](https://t.me/hypothesismap) и [группа ВКонтакте](https://vk.com/hypothesismap)
    - [Чат](https://t.me/hypothesismappingchat) для обсуждения технологии
 1. [Книга](https://картагипотез.рф/book)
-1. Шаблон Карты гипотез в [Холсте](https://app.holst.so/share/b/cd179364-7578-4e2f-bda7-bf225c545879), [Miro](https://miro.com/app/board/uXjVNYPcxAQ=/?share_link_id=744337022572) и [Эсборде](https://sboard.online/boards/7d76fce5-0481-47ea-ac79-bd3f2439bed6)
+1. Шаблон Карты гипотез в [Холсте](https://app.holst.so/share/b/cd179364-7578-4e2f-bda7-bf225c545879), [Miro](https://miro.com/app/board/uXjVNYPcxAQ=/?share_link_id=744337022572), [Эсборде](https://sboard.online/boards/7d76fce5-0481-47ea-ac79-bd3f2439bed6) и [Unidraw](https://unidraw.io/docs/templates/hypothesis-map/)
 1. [Статьи](https://blog.byndyu.ru/search/label/Карта%20гипотез) о Карте гипотез
 1. Видеоуроки [ВКонтакте](https://vk.com/video/playlist/83521944_2), [Rutube](https://rutube.ru/plst/466894/)
 1. [Подскаст](https://music.yandex.ru/album/32512765/) о Карте гипотез.
