@@ -20,6 +20,8 @@
    * [Доска](https://app.holst.so/share/b/81bdc17f-1ea0-40fd-8adc-da820350d131) с картой
 1. [Разбора личной стратегии](https://rutube.ru/video/63272cb164814c4b12a13ad3566745ad/) Александра Лапина
    * [Доска](https://app.holst.so/share/b/6d05e48e-b7b1-4e17-90bb-2f03a0f9e43b) с картой
+1. [Разбора личной стратегии](https://rutube.ru/video/aab3a11ec809c5e1962d92eb9952d762/) Елены Сливной
+   * [Доска](https://app.holst.so/share/b/722554d7-9d6a-43d4-a035-c408cd88d545) с картой
 1. [Карта гипотез](https://blog.byndyu.ru/2024/01/blog-post_7.html) для ментора 
 1. [Танец](https://blog.byndyu.ru/2025/03/blog-post.html) ментора и менти
 
