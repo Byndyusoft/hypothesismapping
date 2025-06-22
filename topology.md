@@ -139,6 +139,9 @@
 ### Схема
 <img width="638" alt="image" src="https://github.com/user-attachments/assets/c956e1a5-8ce8-4d73-a066-4927216432bc" />
 
+### Пример
+<img width="711" alt="image" src="https://github.com/user-attachments/assets/f6fe740f-b6e4-4fb2-a99e-ee796629da87" />
+
 ## <a id="manylevels"></a> Многоуровневая карта
 
 ### Особенность
