@@ -12,11 +12,11 @@
 
 1. [Классическая](#classic)
 1. [Многоуровневая карта](#manylevels)
-1. Цели:
+1. Цели и метрики:
    * [Метрики цели на отдельном уровне](#separatedmetrics)
    * [Иерархия целей](#goalshierarchy)
    * [Многоцелевая карта](#manygoals)
-1. Субъекты:
+1. Субъекты и мотивация:
    * [Мотивация субъекта на отдельном уровне](#separatedmotivation)
 1. Задачи:
    * [Разбивка задач по направлениям](#grouptasks)
@@ -47,7 +47,7 @@
 ### Схема
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/8a1d6d82-3187-4ecf-acf0-7bce4cdd6c6f">
 
-# Цели
+# Цель и метрики
 
 ## <a id="separatedmetrics"></a> Метрики цели на отдельном уровне
 
@@ -98,7 +98,7 @@
 
 <img width="400" alt="Screenshot 2025-03-14 at 09 10 57" src="https://github.com/user-attachments/assets/554a4e13-5860-433b-97b0-322f1c690385" />
 
-# Субъекты
+# Субъект и мотивация
 
 ## <a id="separatedmotivation"></a> Мотивация субъекта на отдельном уровне
 
