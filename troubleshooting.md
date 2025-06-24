@@ -29,10 +29,11 @@
  * Статья https://blog.byndyu.ru/2024/05/blog-post.html
  * Видео https://rutube.ru/video/325fcd637572f952da13e067f2ccda62/
 
+Приём для устранения ошибки: [Вынос цели](techniques.md#purpose-out) за пределы деятельности
+
 Дополнительные материалы:
 1. [Пояснение](https://blog.byndyu.ru/2024/05/blog-post_7.html) через Кеневин фреймворк.
 2. [«Шатание» цели](techniques.md#purpose-staggering) в разделе «Технические приёмы».
-3. [Вынос цели за пределы деятельности](techniques.md#purpose-out) в разделе «Технические приёмы».
 
 ### <a id="incorrectmetric"></a> 2. Метрика не связана с целью
 
@@ -51,6 +52,8 @@
 Описание решений:
  * Статья: https://blog.byndyu.ru/2024/02/blog-post_20.html
  * Видео: https://rutube.ru/video/b3a70d9f66c84c9f45ec24b5b2a24188/ 
+
+Приём для устранения ошибки: перенос метрики в гипотезу (показано в видео и статье об ошибке)
 
 ### <a id="notsubjectmotivation"></a> 2. Мотивация не субъекта
 
