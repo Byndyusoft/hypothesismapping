@@ -121,7 +121,7 @@
 ### Схема
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/a4fdb2f2-ed38-4f34-a5b6-4b5087461d9d">
 
-## <a id="tasksboard"></a> Доска с задачами
+## <a id="tasksboard"></a> Доска с задачами (портфель проектов)
 
 ### Особенность
 Визуализируем статусы задач. 
