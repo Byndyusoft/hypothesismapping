@@ -71,7 +71,7 @@
 * [Презентация](https://speakerdeck.com/ganjina/asinkhronnaia-stratsiessiia-dlia-raspriedieliennykh-komand) 
 * [Шаблон](https://docs.google.com/spreadsheets/d/1O5gCFg3Ok9zL_AlBWit5rlqsS2Ch6QAs0MQ5lnDizW4/edit) для трекинга  
 
-### №10 Доклад: Асинхронная стратсессия для распределенных команд
+### №10 Доклад: Карта гипотез для привлечения инвестиций
 14.05.2025
 
 Докладчик: Сергей Мартюшев – партнер инвестиционного банка, серийный предприниматель, канал https://t.me/probyz
