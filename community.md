@@ -173,3 +173,16 @@
 * [Видео](https://rutube.ru/video/040a31d7e3cc849bcb042fdf2c927e65/)
 * [Презентация](https://speakerdeck.com/pkostyukov/kak-prodat-kartu-gipotiez-topam)
 * [Доска](https://app.holst.so/board/ea8d8ca1-8268-4f17-8aa0-b1685cd8e89e) с картой
+
+## Посмотрите другие разделы базы знаний
+
+1. [Топологии](topology.md) Карты гипотез
+1. [Типовые ошибки](troubleshooting.md) при создании Карты гипотез
+1. [Технические приёмы](techniques.md) работы с картами и фасилитации
+1. [Личная стратегия](personalstrategy.md)
+1. [Стандарт технологии](standard.md)
+1. [Стратегические](strategicgames.md) игры с помощью Карты гипотез
+1. [Примеры](examples.md) карт гипотез из практики
+1. [Сессии](stratsession.md) стратегического планирования
+1. [Стратегия как код](strategyascode.md) с примерами кода
+1. [Типовые элементы](typicalelements.md)
