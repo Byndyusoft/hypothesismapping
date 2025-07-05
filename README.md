@@ -175,7 +175,9 @@ _Например, ваш подчиненный специально настр
 
 <img width="500" alt="Screenshot 2024-06-17 at 07 58 41" src="https://github.com/Byndyusoft/hypothesismapping/assets/956068/79be3d81-de3e-4640-9fc9-8ab10dc4dc77">
 
-С задачей связана топология [Разбивка задач по направлениям](https://github.com/Byndyusoft/hypothesismapping/blob/main/topology.md#4-разбивка-задач-по-направлениям). Пример такой разбивки можно увидеть [в этой статье](https://vc.ru/links/1227904-vizualizaciya-strategii-samogo-masshtabnogo-preobrazovaniya-nashei-strany-v-sovremennoi-istorii).
+С задачей связаны две топологии:
+1. [Разбивка задач по направлениям](https://github.com/Byndyusoft/hypothesismapping/blob/main/topology.md#grouptasks). Пример такой разбивки можно увидеть [в этой статье](https://vc.ru/links/1227904-vizualizaciya-strategii-samogo-masshtabnogo-preobrazovaniya-nashei-strany-v-sovremennoi-istorii).
+1. [Доска с задачами (портфель проектов)](https://github.com/Byndyusoft/hypothesismapping/blob/main/topology.md#tasksboard)
 
 ## Детализированная структура
 
