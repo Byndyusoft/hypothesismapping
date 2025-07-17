@@ -20,8 +20,8 @@
 
 Докладчик: Алексей Пикулев
 
-* Видео...
-* Слайды...
+* [Видео](https://rutube.ru/video/de3357f355506b0c3825df70568e91e9/)
+* [Слайды](https://speakerdeck.com/apikulev/stratieghiia-chieriez-prizmu-dovieriia-pochiemu-vazhno-nachat-s-siebia)
   
 ### №16 Доклад: Преподавание Карт Гипотез, подводные камни
 09.07.2025
