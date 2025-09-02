@@ -194,8 +194,7 @@ _Например, ваш подчиненный специально настр
 
 Более детальное описание структуры с учетом содержания каждого элемента из шаблона в [Холсте](https://app.holst.so/share/b/cd179364-7578-4e2f-bda7-bf225c545879):
 
-<img width="876" height="602" alt="image" src="https://github.com/user-attachments/assets/f64ace17-fe2a-43e4-84b6-c35c993caf5f" />
-
+<img width="1037" height="493" alt="image" src="https://github.com/user-attachments/assets/1edc5fa1-cf24-4523-8314-2db6a5678034" />
 
 ## <a id="common"></a>Схема связей
 
@@ -223,15 +222,18 @@ _Например, ваш подчиненный специально настр
 
 Кодировка всех элементов изображена на схеме:
 
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/0303f3bf-6611-4a44-aa18-bd6a49375979" />
+<img width="615" height="353" alt="image" src="https://github.com/user-attachments/assets/c0ca7e00-8c23-4446-9e63-f13ac52bae55" />
 
 Карточки:
 * Цель, метрики – #cee265
 * Субъект, мотивация – #f5d127
-* Негативный субъект – #ffc191
+  * Негативный субъект – #ffc191
 * Гипотеза – #fcf3af
 * Задача – #c6d4f9
-
+* Заметка – #f1f1f1
+  * Заметка со связью – #171717, толщина 1, пунктир
+* Блокер – #f24725
+  
 Приоритеты:
 * Высокий – #f24725
 * Средний – #fef444
