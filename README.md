@@ -200,7 +200,7 @@ _Например, ваш подчиненный специально настр
 
 Схема для гипотезы с субъектом:
 
-<img width="500" alt="Screenshot 2024-08-14 at 08 10 24" src="https://github.com/user-attachments/assets/e9aa0f8b-920d-4084-8fc4-d96a8d67d32f">
+<img width="777" height="300" alt="image" src="https://github.com/user-attachments/assets/c30f5042-e74f-48ef-86bf-ce65946ebdc5" />
 
 Схема для гипотезы без субъекта:
 
