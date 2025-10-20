@@ -15,8 +15,8 @@
 
 Докладчик: Алексей Пикулев
 
-* Видео...
-* Презентация...
+* [Видео](https://rutube.ru/video/a48d45f6f23dfd4cf5704e718683c37a/)
+* [Презентация](https://speakerdeck.com/apikulev/lichnaia-stratieghiia-chieriez-dovieriie-itoghi-piervogho-potoka)
 
 ### №18 Доклад: Карта гипотез на первом свидании
 13.08.2025
