@@ -366,7 +366,7 @@ _Например, ваш подчиненный специально настр
 
 Карта гипотез является частью фреймворка, который используется для проектирования социотехнических систем. Методы в нём тесно переплетаются. Результат одного идёт на вход другого: 
 
-<img width="500" alt="Screenshot 2025-01-24 at 16 55 05" src="https://github.com/user-attachments/assets/911dd4a4-2736-495b-9351-9cb157c253b0" />
+<img width="700" alt="image" src="https://github.com/user-attachments/assets/a28432a2-c9df-4f9b-9641-2cf7bb2c2f93" />
 
 Подробности на странице с описанием [всей схемы фреймворка](https://byndyusoft.com/productanalysis) и в [статье](https://blog.byndyu.ru/2024/10/it.html).
 
