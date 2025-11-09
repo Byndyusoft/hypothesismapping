@@ -54,7 +54,7 @@
 ## Внешние ресурсы
 
 1. [Сайт технологии](https://картагипотез.рф) ([english version](https://hypothesismapping.com))
-1. [Телеграм-канал](https://t.me/hypothesismap) и [группа ВКонтакте](https://vk.com/hypothesismap)
+1. [Телеграм](https://t.me/hypothesismap) с новостями, [Телеграм](https://t.me/hmbase) с базой знаний и [группа ВКонтакте](https://vk.com/hypothesismap)
    - [Чат](https://t.me/hypothesismappingchat) для обсуждения технологии
 1. [Книги](https://картагипотез.рф/book)
 1. Реализация технологии в сервисах: [Гипотезная](https://maps.integrostrat.ru), [Социотех](https://sociotech.center)
