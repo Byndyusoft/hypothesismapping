@@ -297,9 +297,7 @@ _Например, ваш подчиненный специально настр
 
 В [этом видео](https://blog.byndyu.ru/2024/07/blog-post_7.html) подробно рассмотрена схема организации стратсессии с помощью Карты гипотез.
 
-<img width="500" alt="image" src="https://github.com/Byndyusoft/hypothesismapping/assets/956068/096a6b81-f4e9-4cd6-bb92-80b318dd67fe">
-
-Схему можно посмотреть и скачать по [этой ссылке](https://app.holst.so/share/b/cf82cc57-f5c7-4a94-9395-5491130b8dac).
+<img width="3750" height="3332" alt="171" src="https://github.com/user-attachments/assets/096d596e-6ead-4d57-87f7-8766f2cfc517" />
 
 Весь процесс и требования к проведению стратсессий смотрите в [соответствующем разделе](stratsession.md) базы знаний.
 
