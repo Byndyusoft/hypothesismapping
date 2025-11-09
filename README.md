@@ -75,7 +75,8 @@
 # Структура Карты гипотез
 
 Структура Карты гипотез состоит из четырех элементов и связей между ними:
-<img width="899" alt="image" src="https://github.com/user-attachments/assets/79cebf0a-f642-412d-b581-6606c70c4281" />
+
+<img width="900" height="535" alt="image" src="https://github.com/user-attachments/assets/fd83202b-d083-4506-a21b-8e5d8b3bd42e" />
 
 ## 1. Цель
 
@@ -221,7 +222,7 @@ _Например, ваш подчиненный специально настр
 
 Более детальное описание структуры с учетом содержания каждого элемента из шаблона в [Холсте](https://app.holst.so/share/b/cd179364-7578-4e2f-bda7-bf225c545879):
 
-<img width="1037" height="493" alt="image" src="https://github.com/user-attachments/assets/1edc5fa1-cf24-4523-8314-2db6a5678034" />
+<img width="1112" height="665" alt="image" src="https://github.com/user-attachments/assets/59654b37-d2ab-4722-b62b-6afb401082c5" />
 
 ## <a id="common"></a>Схема связей
 
