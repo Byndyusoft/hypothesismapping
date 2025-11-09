@@ -303,7 +303,7 @@ _Например, ваш подчиненный специально настр
 
 ### Роли участников стратегической сессии
 
-<img width="1000" height="1002" alt="image" src="https://github.com/user-attachments/assets/34601bff-11e3-44b5-bf55-f2464c7f29b8" />
+<img width="1029" height="501" alt="170" src="https://github.com/user-attachments/assets/b2c395e7-9a3f-4790-be19-84cde92835ab" />
 
 Для создания Карты гипотез вам будут нужны следующие роли:
 
