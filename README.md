@@ -199,7 +199,7 @@ _Например, ваш подчиненный специально настр
 1. Хочешь добавить задачу? Присоедини к существующей ветке с гипотезой или опиши новую гипотезу. Тогда ценность реализации задачи будет прослеживаться вплоть до цели.
 2. Нет такой ветки, к которой можно присоединить задачу? А задача точно нужна? В ней точно есть ценность? Если задачу некуда присоединить, то ее не следует брать в работу до появления ветки, к которой задачу можно присоединить.
 
-<img width="500" alt="Screenshot 2024-06-17 at 07 58 41" src="https://github.com/Byndyusoft/hypothesismapping/assets/956068/79be3d81-de3e-4640-9fc9-8ab10dc4dc77">
+<img width="500" height="308" alt="image" src="https://github.com/user-attachments/assets/980b17b3-f728-498c-8b27-e0944dab350c" />
 
 С задачей связаны две топологии:
 1. [Разбивка задач по направлениям](https://github.com/Byndyusoft/hypothesismapping/blob/main/topology.md#grouptasks). Пример такой разбивки можно увидеть [в этой статье](https://vc.ru/links/1227904-vizualizaciya-strategii-samogo-masshtabnogo-preobrazovaniya-nashei-strany-v-sovremennoi-istorii).
