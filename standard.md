@@ -10,9 +10,9 @@
 
 ## <a id="1.2"></a> Версия 1.2 от 17.11.2025
 
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/e8221e29-7405-4e20-a381-0a5aeffe1f87" />
+<img width="500" alt="A2@2x (1)" src="https://github.com/user-attachments/assets/3ddbd77d-9a3d-4773-968c-817bc52df8b1" />
 
-[Скачать в формате А2, pdf](https://disk.360.yandex.ru/i/UviA4EHNPioCyg)
+[Скачать в формате А2, pdf](https://disk.360.yandex.ru/i/_rQitrYIcsfZhw)
 
 **Список изменений с версии 1.1:**
 
