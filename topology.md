@@ -6,7 +6,7 @@
 
 Все примеры модификации топологий собраны на схеме:
 
-<img width="914" alt="Screenshot 2025-01-24 at 17 02 56" src="https://github.com/user-attachments/assets/a3c2f132-0f06-4211-90b1-8ac38b17dc44" />
+<img width="1071" height="527" alt="image" src="https://github.com/user-attachments/assets/31c9fe03-c414-412a-b624-62e49b7e51cb" />
 
 **Список топологий:**
 
