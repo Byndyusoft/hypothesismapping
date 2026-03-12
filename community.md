@@ -10,6 +10,19 @@
 ## Встречи сообщества
 В среду в 16:00 МСК время для встреч сообщества. Практики Карты гипотез делают доклады и мастер-классы о технологии. Анонсы встреч проходят в канале метода https://t.me/hypothesismap.
 
+### №26 Доклад: Как заставить людей хотеть то, от чего они отказываются?
+11.03.2026
+
+Докладчик: Алексей Пикулев
+
+* [Видео](https://rutube.ru/video/acafe4779f844d3e3ca02d76b48f2d86)
+* [Презентация](https://speakerdeck.com/apikulev/kak-nauchitsia-stratieghichieskomu-myshlieniiu-chieriez-istorichieskiie-kieisy)
+* Проекты:
+  * [Кейс 1. Картофель Фридриха Великого](https://app.sociotech.center/projects/public/44a04733-7eaa-444a-a3f9-ce14d06fb4fb)
+  * [Кейс 2: Платок Ататюрка](https://app.sociotech.center/projects/public/7b363fa5-4d7a-40d7-9c91-f91726cad9fb)
+  * [Кейс 3: Stop de Kindermoord (Нидерланды)](https://app.sociotech.center/projects/public/0f1cdedd-9524-47c9-8c1a-41cfe52a7038)
+  * [Кейс 4: Coca-Cola и Дед Мороз](https://app.sociotech.center/projects/public/97f6f90e-c462-42a9-8eee-b2889be2918d)
+
 ### №25 Доклад: Как не превратить стратегию в «среднее арифметическое»?
 04.03.2026
 
