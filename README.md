@@ -59,7 +59,7 @@
    - [Чат](https://t.me/hypothesismappingchat) для обсуждения технологии
 1. [Книги](https://картагипотез.рф/book)
 1. [ПОЛИГОН](https://картагипотез.рф/polygon) – территория стратегического масштаба и управления
-1. Реализация технологии в сервисах: [Гипотезная](https://maps.integrostrat.ru), [Социотех](https://sociotech.center)
+1. Реализация технологии в сервисах: [Социотех](https://sociotech.center), [Гипотезная](https://maps.integrostrat.ru)
    - Шаблон для ручного создания карты в [Холсте](https://app.holst.so/share/b/cd179364-7578-4e2f-bda7-bf225c545879), [Miro](https://miro.com/app/board/uXjVNYPcxAQ=/?share_link_id=744337022572), [Эсборде](https://sboard.online/boards/7d76fce5-0481-47ea-ac79-bd3f2439bed6) и [Unidraw](https://unidraw.io/docs/templates/hypothesis-map/)
 1. [Статьи](https://blog.byndyu.ru/search/label/Карта%20гипотез) о Карте гипотез
 1. Видеоуроки [ВКонтакте](https://vk.com/video/playlist/83521944_2), [Rutube](https://rutube.ru/plst/466894/)
@@ -322,8 +322,8 @@ _Например, ваш подчиненный специально настр
 ### Инструменты для создания Карты гипотез
 
 Рекомендуется использовать сервисы, где реализована нотация Карты гипотез: 
-1. [Гипотезная](https://maps.integrostrat.ru)
 1. [Социотех](https://sociotech.center)
+1. [Гипотезная](https://maps.integrostrat.ru) 
 
 Можно создавать карты вручную с помощью онлайн-доски, например, [Холст](https://holst.so/) или [Эсборд](https://sboard.online/).
 
@@ -369,6 +369,8 @@ _Например, ваш подчиненный специально настр
 Карта гипотез является частью фреймворка, который используется для проектирования социотехнических систем. Методы в нём тесно переплетаются. Результат одного идёт на вход другого: 
 
 <img width="700" alt="image" src="https://github.com/user-attachments/assets/a28432a2-c9df-4f9b-9641-2cf7bb2c2f93" />
+
+Реализация этих идей в продукте [Социотех](https://sociotech.center). 
 
 Подробности на странице с описанием [всей схемы фреймворка](https://byndyusoft.com/productanalysis) и в [статье](https://blog.byndyu.ru/2024/10/it.html).
 
