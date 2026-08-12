@@ -80,7 +80,7 @@
 
 <img width="900" height="535" alt="image" src="https://github.com/user-attachments/assets/fd83202b-d083-4506-a21b-8e5d8b3bd42e" />
 
-## 1. Цель
+## <a id="goaldesc"></a> 1. Цель
 
 Главный вопрос, на который отвечает эта часть карты: по каким критериям в конце работы мы поймём, что достигли успеха?
 
