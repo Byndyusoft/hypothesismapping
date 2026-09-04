@@ -40,7 +40,7 @@
 
 ## Границы применения
 
-<img width="881" height="517" alt="image" src="https://github.com/user-attachments/assets/6a76e181-9695-40fa-8c35-b311f2a95f4a" />
+<img width="881" alt="image" src="https://github.com/user-attachments/assets/6a76e181-9695-40fa-8c35-b311f2a95f4a" />
 
 Обратите внимание, если вы описали только цели и сразу перешли к дорожной карте, не описав гипотезы (идеи, стратагемы), то это нельзя считать стратегическим планированием. Стратегию нужно описать в явном виде, придав ей конкретную форму (подробнее читайте в статье [Стратегией называют всё, кроме самой стратегии](https://vc.ru/opinions/1573299-strategiei-nazyvayut-vse-krome-samoi-strategii)). Это можно сделать с помощью Карты гипотез и в этом сила технологии.
 
@@ -79,7 +79,7 @@
 
 Структура Карты гипотез состоит из четырех элементов и связей между ними:
 
-<img width="900" height="535" alt="image" src="https://github.com/user-attachments/assets/fd83202b-d083-4506-a21b-8e5d8b3bd42e" />
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/fd83202b-d083-4506-a21b-8e5d8b3bd42e" />
 
 ## <a id="goaldesc"></a> 1. Цель
 
@@ -99,7 +99,7 @@ _Например, стоимость привлечения клиента не
 
 Значения метрик должны быть измеримы и оценены максимально объективно. Исключение может быть только, если вы делаете Карту гипотез персонально для человека. В этом случае оценка метрик может быть субъективной. Например, научиться играть на гитаре на уровне 8 из 10, а сейчас умею на 3.
 
-<img width="633" height="347" alt="image" src="https://github.com/user-attachments/assets/a2ad7c41-4795-47f9-b1c6-ea65317ebeac" />
+<img width="633" alt="image" src="https://github.com/user-attachments/assets/a2ad7c41-4795-47f9-b1c6-ea65317ebeac" />
 
 С целями связаны три топологии:
 1. [Метрики цели](topology.md#metricsonlevel) на отдельном уровне
@@ -120,7 +120,7 @@ _Например, стоимость привлечения клиента не
 _Например, учителя средних классов, мастер-приемщик на станции техобслуживания._
 1. **Боли и желания** – описание болей и желаний субъекта, которые мы будем учитывать при попытке изменить поведение субъекта через гипотезу. <br>_Например, выйти из операционки, нехватка оборотных средств, отсутствие мотивации к саморазвитию._
 
-<img width="520" height="328" alt="image" src="https://github.com/user-attachments/assets/47c419ee-4aa1-4b3d-a8aa-6106adf4b366" />
+<img width="520" alt="image" src="https://github.com/user-attachments/assets/47c419ee-4aa1-4b3d-a8aa-6106adf4b366" />
 
 Описание болей и желаний необходимо для того, чтобы сформировать гипотезы, влияющие на субъект. Полезной проверкой является сопоставление части **«потому что»** в гипотезе с болями и желаниями субъекта. Если соответствие есть, значит у гипотезы есть шанс действительно оказать влияние на субъект.
 
@@ -204,7 +204,7 @@ _Например, ваш подчиненный специально настр
 1. Хочешь добавить задачу? Присоедини к существующей ветке с гипотезой или опиши новую гипотезу. Тогда ценность реализации задачи будет прослеживаться вплоть до цели.
 2. Нет такой ветки, к которой можно присоединить задачу? А задача точно нужна? В ней точно есть ценность? Если задачу некуда присоединить, то ее не следует брать в работу до появления ветки, к которой задачу можно присоединить.
 
-<img width="500" height="308" alt="image" src="https://github.com/user-attachments/assets/980b17b3-f728-498c-8b27-e0944dab350c" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/980b17b3-f728-498c-8b27-e0944dab350c" />
 
 С задачей связаны две топологии:
 1. [Разбивка задач по направлениям](https://github.com/Byndyusoft/hypothesismapping/blob/main/topology.md#grouptasks). Пример такой разбивки можно увидеть [в этой статье](https://vc.ru/links/1227904-vizualizaciya-strategii-samogo-masshtabnogo-preobrazovaniya-nashei-strany-v-sovremennoi-istorii).
@@ -226,17 +226,17 @@ _Например, ваш подчиненный специально настр
 
 Более детальное описание структуры с учетом содержания каждого элемента из шаблона в [Холсте](https://app.holst.so/share/b/cd179364-7578-4e2f-bda7-bf225c545879):
 
-<img width="1112" height="665" alt="image" src="https://github.com/user-attachments/assets/59654b37-d2ab-4722-b62b-6afb401082c5" />
+<img width="1112" alt="image" src="https://github.com/user-attachments/assets/59654b37-d2ab-4722-b62b-6afb401082c5" />
 
 ## <a id="common"></a>Схема связей
 
 Схема для гипотезы с субъектом:
 
-<img width="777" height="300" alt="image" src="https://github.com/user-attachments/assets/c30f5042-e74f-48ef-86bf-ce65946ebdc5" />
+<img width="777" alt="image" src="https://github.com/user-attachments/assets/c30f5042-e74f-48ef-86bf-ce65946ebdc5" />
 
 Схема для гипотезы без субъекта:
 
-<img width="777" height="283" alt="image" src="https://github.com/user-attachments/assets/f75476ba-6de0-4fb7-91b0-f4c250b87805" />
+<img width="777" alt="image" src="https://github.com/user-attachments/assets/f75476ba-6de0-4fb7-91b0-f4c250b87805" />
 
 Как понять, что в гипотезе проблема:
 1. Если в воздействии написано то, что делает субъект, а не вы.
@@ -254,7 +254,7 @@ _Например, ваш подчиненный специально настр
 
 Кодировка всех элементов изображена на схеме:
 
-<img width="665" height="708" alt="image" src="https://github.com/user-attachments/assets/b89625a4-a629-4a85-a6ea-ad29db2d81e5" />
+<img width="665" alt="image" src="https://github.com/user-attachments/assets/b89625a4-a629-4a85-a6ea-ad29db2d81e5" />
 
 Карточки:
 * Цель, метрики – #cadf58
@@ -301,13 +301,13 @@ _Например, ваш подчиненный специально настр
 
 В [этом видео](https://blog.byndyu.ru/2024/07/blog-post_7.html) подробно рассмотрена схема организации стратсессии с помощью Карты гипотез.
 
-<img width="3750" height="3332" alt="171" src="https://github.com/user-attachments/assets/096d596e-6ead-4d57-87f7-8766f2cfc517" />
+<img width="2750" alt="171" src="https://github.com/user-attachments/assets/096d596e-6ead-4d57-87f7-8766f2cfc517" />
 
 Весь процесс и требования к проведению стратсессий смотрите в [соответствующем разделе](stratsession.md) базы знаний.
 
 ### Роли участников стратегической сессии
 
-<img width="1029" height="501" alt="170" src="https://github.com/user-attachments/assets/b2c395e7-9a3f-4790-be19-84cde92835ab" />
+<img width="1029" alt="170" src="https://github.com/user-attachments/assets/b2c395e7-9a3f-4790-be19-84cde92835ab" />
 
 Для создания Карты гипотез вам будут нужны следующие роли:
 
@@ -387,7 +387,7 @@ _Например, ваш подчиненный специально настр
 
 Частоту страткаденций выбирайте, исходя из циклов в вашей деятельности: у кого-то встречи будут нужны раз в месяц, а кому-то будет достаточно анализировать результат раз в квартал.
 
-<img width="1596" height="599" alt="203" src="https://github.com/user-attachments/assets/33fcd968-3060-40fc-ac5b-cd0e536d9496" />
+<img width="1596" alt="203" src="https://github.com/user-attachments/assets/33fcd968-3060-40fc-ac5b-cd0e536d9496" />
 
 Главное правило, благодаря которому начинается работа через стратегию: **Ресурсы можно выделять только на задачи, которые есть в Карте гипотез.**
 
