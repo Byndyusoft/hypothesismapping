@@ -69,7 +69,7 @@
 ### Обучение и сертификация
 Схема сертификации:
 
-<img width="1081" height="476" alt="image" src="https://github.com/user-attachments/assets/0112132a-c70c-461e-8d08-52f91be6b701" />
+<img width="1600" alt="Схема_обучения_из_PDF_слайд_8" src="https://github.com/user-attachments/assets/042c9ae4-583e-4714-9530-fa4cead98ba3" />
 
 1. [Обучение и сертификация](https://картагипотез.рф/study)
 1. [Проверка достоверности](https://картагипотез.рф/check) сертификата. Посмотрите пример реально [полученного сертификата](https://картагипотез.рф/certificate?number=183&code=kbtkuG).
