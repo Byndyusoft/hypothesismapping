@@ -540,14 +540,18 @@
 
 ## <a id="related"></a> Связанные разделы
 
-- [Скилл оценки зрелости для ИИ-агента](https://github.com/Byndyusoft/sociotech-ai-skills/tree/main/skills/strategy-maturity-assessment)
+- [Главная страница](README.md) базы знаний
 - [Стандарт технологии](standard.md)
 - [Топологии](topology.md)
 - [Типовые ошибки](troubleshooting.md)
 - [Технические приёмы](techniques.md)
 - [Личная стратегия](personalstrategy.md)
+- [Сессии стратегического планирования](stratsession.md)
 - [Стратегические игры](strategicgames.md)
+- [Реализация стратегии](implementation.md)
+- [Нужна ли стратегия и когда её достаточно](strategyscope.md)
 - [Стратегия как код](strategyascode.md)
 - [Типовые элементы](typicalelements.md)
 - [Примеры](examples.md)
+- [Сообщество](community.md)
 - [Соотнесение с другими подходами](methodologylinks.md)

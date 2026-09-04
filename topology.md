@@ -200,11 +200,19 @@
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/35537acb-d792-448c-b29e-7f96da79ecef">
 
 ## Посмотрите другие разделы базы знаний
-1. [Топологии](topology.md) Карты гипотез
+
+1. [Главная страница](README.md) базы знаний
+1. [Модель зрелости](maturitymodel.md) стратегирования через Карту гипотез
+1. [Типовые ошибки](troubleshooting.md) при создании Карты гипотез
 1. [Технические приёмы](techniques.md) работы с картами и фасилитации
 1. [Личная стратегия](personalstrategy.md)
-1. [Стандарт метода](standard.md)
+1. [Стандарт технологии](standard.md)
 1. [Стратегические](strategicgames.md) игры с помощью Карты гипотез
 1. [Примеры](examples.md) карт гипотез из практики
 1. [Сессии](stratsession.md) стратегического планирования
+1. [Реализация стратегии](implementation.md)
+1. [Нужна ли стратегия](strategyscope.md) и когда её достаточно
 1. [Стратегия как код](strategyascode.md) с примерами кода
+1. [Типовые элементы](typicalelements.md)
+1. [Сообщество](community.md)
+1. [Соотнесение Карты гипотез](methodologylinks.md) с другими подходами и методами
