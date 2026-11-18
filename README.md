@@ -123,7 +123,7 @@
 1. [Книги](https://картагипотез.рф/book)
    1. [Самоучитель](https://картагипотез.рф/resources) по стратегическому мышлению для школьников и студентов
 1. [ПОЛИГОН](https://картагипотез.рф/polygon) – территория стратегического масштаба и управления
-1. Реализация технологии в сервисах: [Социотех](https://sociotech.center), [Гипотезная](https://maps.integrostrat.ru)
+1. Реализация технологии: [Социотех](https://sociotech.center)
    - Шаблон для ручного создания карты в [Холсте](https://app.holst.so/share/b/cd179364-7578-4e2f-bda7-bf225c545879), [Miro](https://miro.com/app/board/uXjVNYPcxAQ=/?share_link_id=744337022572), [Эсборде](https://sboard.online/boards/7d76fce5-0481-47ea-ac79-bd3f2439bed6) и [Unidraw](https://unidraw.io/docs/templates/hypothesis-map/)
 1. [Статьи](https://blog.byndyu.ru/search/label/Карта%20гипотез) о Карте гипотез
 1. Видеоуроки [ВКонтакте](https://vk.com/video/playlist/83521944_2), [Rutube](https://rutube.ru/plst/466894/)
@@ -439,9 +439,7 @@ _Например, ваш подчиненный специально настр
 
 ### Инструменты для создания Карты гипотез
 
-Рекомендуется использовать сервисы, где реализована нотация Карты гипотез: 
-1. [Социотех](https://sociotech.center)
-1. [Гипотезная](https://maps.integrostrat.ru) 
+Рекомендуется использовать сервис, где реализована нотация Карты гипотез: [Социотех](https://sociotech.center).
 
 Можно создавать карты вручную с помощью онлайн-доски, например, [Холст](https://holst.so/) или [Эсборд](https://sboard.online/).
 
